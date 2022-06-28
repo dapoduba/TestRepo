@@ -1,0 +1,41 @@
+https://github.com/dapoduba/TestRepo.git
+
+
+To clone a new repo directory using Git Bash, 
+- open folder to clone into and right click to select
+get Git Bash here
+- git bash window opens
+- type "git clone" and right click to paste the repository link above
+- type "ls" to check for success cloning
+
+Note that "git clone" is to be used only once in a session to connect to the repository
+If new branches are created, you can use "git pull" to pull it into your local machine
+Type "clear" to clear your screen
+Type "cat" and the name of the branch to see its content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To clone a new repo directory using Windows cmd, 
+- open the cmd window
+- enter
+cd C:\Users\OOduba\Desktop\Github
+git clone https://github.com/dapoduba/TestRepo.git
+
+
+
+
+
